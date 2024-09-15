@@ -20,7 +20,7 @@ The dataset used for training is available on Hugging Face:
 ## Training Details
 | Parameter             | Value                |
 |-----------------------|----------------------|
-| Model                 | Llama2-7B            |
+| Model                 | Llama2-7B Chat-HF    |
 | Initial Epochs        | 100                  |
 | Initial Training Samples | 1000             |
 | Initial Accuracy      | 89%                  |
